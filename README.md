@@ -1,9 +1,16 @@
 ## HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection
 
-**[[Arxiv]](https://arxiv.org/abs/2206.15157)**
-**[[Paper]](https://arxiv.org/pdf/2206.15157.pdf)**
+**by [Tim Broedermann](https://people.ee.ethz.ch/~timbr/), [Christos Sakaridis](https://people.ee.ethz.ch/csakarid/), [Dengxin Dai](https://vas.mpi-inf.mpg.de/dengxin/), and [Luc Van Gool](https://scholar.google.de/citations?user=TwMib_QAAAAJ&hl=en)**
 
-In this work, we present HRFuser, a multi-resolution sensor fusion architecture that scales straightforwardly to an arbitrary number of input modalities. The design of HRFuser is based on state-of-the-art high-resolution networks for image-only dense prediction and incorporates a novel multi-window cross-attention block as the means to perform fusion of multiple modalities at multiple resolutions.
+
+**[[Paper]](https://arxiv.org/pdf/2206.15157.pdf)**
+**[[arXiv]](https://arxiv.org/abs/2206.15157)**
+**[[Supplement]](Supplementary_Material_HRFuser.pdf)**
+
+## Overview
+
+This repository contains the official code for the **ITSC 2023** paper [HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection](https://arxiv.org/pdf/2206.15157.pdf). 
+HRFuser is a multi-resolution sensor fusion architecture that scales straightforwardly to an arbitrary number of input modalities. The design of HRFuser is based on state-of-the-art high-resolution networks for image-only dense prediction and incorporates a novel multi-window cross-attention block as the means to perform fusion of multiple modalities at multiple resolutions.
 
 ![HRFuser Architecture](resources/HRFuser_architecture.png)
 
