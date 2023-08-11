@@ -193,11 +193,11 @@ The most relevant files for HRFuser are:
 If you find this project useful in your research, please consider citing:
 
 ```
-@article{broedermann2022hrfuser,
+@inproceedings{broedermann2023hrfuser,
   title={HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection},
   author={Broedermann, Tim and Sakaridis, Christos and Dai, Dengxin and Van Gool, Luc},
-  journal={arXiv preprint arXiv:2206.15157},
-  year={2022}
+  booktitle={IEEE International Conference on Intelligent Transportation Systems (ITSC)},
+  year={2023}
 }
 ```
 
